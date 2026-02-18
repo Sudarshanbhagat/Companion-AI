@@ -1,1 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@layer base{body{@apply bg-background-dark text-white overflow-hidden;font-feature-settings:"ss01","ss02","cv01","cv02"}}@layer utilities{.glass-panel{@apply bg-glass-overlay backdrop-blur-[20px] border border-glass-border shadow-glass;}.text-glow{text-shadow:0 0 10px rgba(255,255,255,.5)}}
